@@ -1,0 +1,17 @@
+Ülesanne 8a-1.                          Programmi väljund
+=========================================================:
+
+Jukul on kodus münte vääringutes [2, 5, 10, 20]
+Vähim arv münte, et tasuda 0.82 €: 5
+
+Jukul on kodus münte vääringutes [2, 5, 10, 20]
+Vähim arv münte, et tasuda 0.81 €: 8
+
+Jukul on kodus münte vääringutes [1, 5, 10]
+Vähim arv münte, et tasuda 0.82 €: 10
+
+Jukul on kodus münte vääringutes [1, 2, 5, 10, 20, 100]
+Vähim arv münte, et tasuda 1.08 €: 4
+
+=========================================================.
+Carmen Akkermann                  2020-04-16 22:31:24.378
