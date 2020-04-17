@@ -17,9 +17,9 @@ public class Ylesanne8a_1 {
     public static int vähimMüntideArv = 10000; // Sellega hakkab võrdlema meetodis ostusummaRek leitud müntide arvusid.
 
     /**
-     *
-     * @param mündid
-     * @param etteantudSumma
+     * Meetod ostusumma teeb ettevalmistused meetodi ostusummaRek jaoks ja kutsub selle välja.
+     * @param mündid - antud müntide massiiv.
+     * @param etteantudSumma - antud ostusumma.
      */
     private static void ostusumma(int[] mündid, double etteantudSumma) {
 
