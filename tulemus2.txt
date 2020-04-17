@@ -1,0 +1,19 @@
+Ülesanne 8a-2.                          Programmi väljund
+=========================================================:
+
+Antud lihtlause:
+       Mina olen täna kindlasti       Tallinnas.
+Osalaused, kui välja jätta 3 sõna:
+       Mina olen.
+       Mina täna.
+       Mina kindlasti.
+       Mina Tallinnas.
+       Olen täna.
+       Olen kindlasti.
+       Olen Tallinnas.
+       Täna kindlasti.
+       Täna Tallinnas.
+       Kindlasti Tallinnas.
+
+=========================================================.
+Carmen Akkermann                  2020-04-17 04:12:57.276
